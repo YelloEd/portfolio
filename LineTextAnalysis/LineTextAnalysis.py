@@ -68,7 +68,7 @@ while x==True: #Starting of while loop
         x=False #Closes the loop
     except: #Failed
         print("This file does not exist") #More than likely due to incorrect file
-f=open("words_index.txt","w") #Starts writing the file
+f=open("words_index.txt","a") #Starts writing the file with append access; optimized for public use
 dictionary = createdicts() #Creates the 2 dictionarys [0,1] 0 is the amount it showed, 1 is the line number for each word
 main() # Main function is called
 f.close() # Closed filehandle just incase a bug

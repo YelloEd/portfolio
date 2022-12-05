@@ -1,0 +1,38 @@
+Text File to be analyzed: sample.txt
+
+The 6 common words
+the: 3
+is: 3
+and: 3
+sun: 2
+yonder: 1
+with: 1
+
+
+Words and their line numbers in alphabetical order
+already: 4
+and: 2, 3, 4
+arise: 3
+breaks: 1
+but: 1
+east: 2
+envious: 3
+fair: 3
+grief: 4
+is: 2, 4
+it: 2
+juliet: 2
+kill: 3
+light: 1
+moon: 3
+pale: 4
+sick: 4
+soft: 1
+sun: 2, 3
+the: 2, 3
+through: 1
+what: 1
+who: 4
+window: 1
+with: 4
+yonder: 1
